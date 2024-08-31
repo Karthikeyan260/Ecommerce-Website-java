@@ -22,7 +22,7 @@ This Java program calculates the total cost, discount, tax, and net cost for thr
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/eco-product-cost-calculator.git
+   [git clone https://github.com/yourusername/eco-product-cost-calculator](https://github.com/Karthikeyan260/Ecommerce-Website-java).git
    cd eco-product-cost-calculator
 2.**Compile the program**:
 
