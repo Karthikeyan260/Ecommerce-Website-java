@@ -27,6 +27,7 @@ This Java program calculates the total cost, discount, tax, and net cost for thr
 
 2.**Compile the program**:
 Open a terminal and navigate to the directory where the Eco.java file is located. Then, run:
+
 javac Eco.java
 
 3.**Run the program**:
@@ -35,6 +36,7 @@ After compiling, run the program by executing:
 java Eco
 
 4.**Follow the prompts**:
+
 Enter the product details (name, price, and quantity) as prompted.
 Enter product 1 name: Apple
 Enter product 1 price: 50.0
